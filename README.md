@@ -1,4 +1,5 @@
 # fatal_force
+<center><img src=https://i.imgur.com/sX3K62b.png></center>
 EDA/Visualisation of Police Killings in the USA, dataset by The Washington Post from 2015-2017.
 
 The Washington Post has been tracking details about police killings since Jan 1, 2015. This includes the race, age, gender, whether the person was armed, and whether the victim had a mental-health crisis.
